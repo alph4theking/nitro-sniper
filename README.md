@@ -31,9 +31,6 @@
 - Configurable invite sniper featuring minimum and max member counts and limited invite joins (e.g. 10 invites / 6 hours)
 - Delay management for the invite sniper to avoid suspensions
 
-## Previews
-![Image](https://media.wtf/11603354)
-
 ## FAQ
 - **Q: Where can I find the installation steps?**
 - A: [Installation](https://github.com/alph4theking/nitro-sniper/wiki/Installation)
